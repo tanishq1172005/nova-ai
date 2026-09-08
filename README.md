@@ -5,6 +5,9 @@
 
 ---
 
+## Live Demo URL
+https://nova-ai-ten-kappa.vercel.app/
+
 ## Screenshots
 
 ![header](image.png)
